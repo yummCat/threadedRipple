@@ -2,8 +2,6 @@ Date: July 11 2025
 
 We decided to brainstorm today for what we should make for this opportunity. We decided to go with a fluid simulated necklace that relies on metaballs. We decided to go with this because jewelry can make or break an outfit, and everyone wants to look good. So, this pendant will give one elegance and confidence! Plus, it will be very cute and we like making cute stuff!
 
-
-
 Date: July 12 2025
 
 We finished the firmware in CircuitPython. This was based upon research we conducted on metaballs. The main source to our research was: https://www.cg.tuwien.ac.at/research/publications/2022/Lackner_2022/Lackner_2022-Bachelor%20thesis.pdf. 
@@ -207,18 +205,17 @@ while True:
     time.sleep(0.05)
 
 
-
-
 We also started working on the schematic around midnight, and one of us started designing the 3d printed case for our pendant. We wanted to make sure it was cute!
 
-
+<img width="653" height="490" alt="image" src="https://github.com/user-attachments/assets/ed75d0d2-b006-40e6-9592-4f5c64371a50" />
 
 But then we decided to go with cardboard after looking at the long list of individuals who signed up to 3d print.
 
 
-Date: July 13
+# Date: July 13/14
 
 We found out that the main reason that all the components did not work together was due to an issue with our microcontroller—through disassembling the whole model. One thing we wished we had done was to consider other options for microcontrollers, their pros and cons, and then decide on the best one.
+
 
 
 BOM: 
