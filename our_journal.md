@@ -1,4 +1,4 @@
-Date: July 11 2025
+## Date: July 11 2025
 
 We brainstormed potential ideas we could do for our project. We first thought of a dome that had leds and looked like the las vegas dorm.This like changed images based on user input and a button that has preset faces that are cute.
 
@@ -6,7 +6,7 @@ We brainstormed potential ideas we could do for our project. We first thought of
 
 However we could not do this because we had no epoxy/acrylic for the dome. We weren’t sure how we would build the dome either. So we went back to the drawing board and thought of some new, cool ideas we could do. We eventually came up with a fluid simulation pendant. Based upon movement the fluid moves in the pendant. It also has buttons to turn it on and off & sync the bluetooth. 
 
-Our pitch:  
+### Our pitch:  
 Friendship is a deeply abstract concept—it looks different for everyone, yet shares certain universal traits. This pendant brings those shared aspects to life through a dynamic fluid display. On startup, fluid pours in, representing how friendship fills us up. It moves and shifts with turbulence, reflecting the emotional highs and lows every bond experiences. The pendant is fully customizable—its color, texture, and behavior echo the unique inside jokes and personality of each connection. A press on one pendant sends a gentle signal to a linked friend anywhere in the world, offering quiet reassurance. And when two friends press and hold their pendants at the same time, the fluid begins to swirl and glow—creating a shared, living moment of connection, no matter the distance.
 
 Plus, we are planning on there being pairs of individuals(they can register themselves) and based upon whether they tap 2 or 3 times on the pendant there will be a ripple for the other individual. This would be a really cool idea to implement if we have enough time\!
@@ -15,7 +15,7 @@ Plus, we are planning on there being pairs of individuals(they can register them
 
 It's going to be super cute and look like a little potion necklace. The components we are going to use for the necklace are 2 buttons, a servo motor, ProMicro NRF52840 for the microcontroller, TP4056, TFT display. The servo motor will be for a vibration when the pair of the pendant connects/sends a signal to a friend.
 
-Date: July 12 2025
+## Date: July 12 2025
 
 We worked on the firmware the whole day because C is a hard language, but we eventually figured it out. Until we realized that C would be difficult to use with VS Code, NRF52840 ProMicro since some of the modules we were planning to use were not incompatible.
 
@@ -46,7 +46,7 @@ We started on the cad too but didn’t get too far.
 
 To truly start testing we needed a battery but we could only get it the next day at 12pm. It was unfortunately not rechargeable. This might’ve been part of the problem with the final product.
 
-Date: July 13 2025
+## Date: July 13 2025
 
  All day we tried soldering and testing different components, the accelerometer, the vibration motor(repurposed servo), the leds, the switches, and most importantly the tft. We initially thought the problem must be with the software. We tried using arduino ide, used mu, tried nrf connect, flutter, and a whole host of other stuff. The software didn’t seem to be the issue.
 
