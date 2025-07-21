@@ -231,11 +231,11 @@ We found out that the main reason that all the components did not work together 
 
 # BOM: 
 Component | Number
-Micro Servo - 1
-ProMicro NRF52840 - 1
-Buttons - 2
-ADXL345 - 1
-Lithium Ion battery 3V- 2
-TP4056 - 1
-Wires
+- Micro Servo - 1
+- ProMicro NRF52840 - 1
+- Buttons - 2
+- ADXL345 - 1
+- Lithium Ion battery 3V- 2
+- TP4056 - 1
+- Wires
 
