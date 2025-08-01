@@ -6,11 +6,21 @@ Threaded Ripple, created at Undercity, is a draft of a fluid simulation pendant 
 
 ---
 
-Date: July 11 2025
+# BOM: 
+Component | Number
+- Micro Servo - 1
+- ProMicro NRF52840 - 1
+- Buttons - 2
+- ADXL345 - 1
+- Lithium Ion battery 3V- 2
+- TP4056 - 1
+- Wires
+
+# Date: July 11 2025
 
 We decided to brainstorm today for what we should make for this opportunity. We decided to go with a fluid simulated necklace that relies on metaballs. We decided to go with this because jewelry can make or break an outfit, and everyone wants to look good. So, this pendant will give one elegance and confidence! Plus, it will be very cute and we like making cute stuff!
 
-Date: July 12 2025
+# Date: July 12 2025
 
 We finished the firmware in CircuitPython. This was based upon research we conducted on metaballs. The main source to our research was: https://www.cg.tuwien.ac.at/research/publications/2022/Lackner_2022/Lackner_2022-Bachelor%20thesis.pdf. 
 
@@ -227,15 +237,14 @@ But then we decided to go with cardboard after looking at the long list of indiv
 
 We found out that the main reason that all the components did not work together was due to an issue with our microcontroller—through disassembling the whole model. One thing we wished we had done was to consider other options for microcontrollers, their pros and cons, and then decide on the best one.
 
+# Date: July 31
+
+Although the built project so far is encased in a cardboard case, we also made a two-layer case in Fusion 360. The pieces can be joined together without screws, and there is a hole to connect a string/necklace for the pendant.
+
+[assembled side view](https://raw.githubusercontent.com/yummCat/threadedRipple/refs/heads/main/img/assembled_sideView.png)
+[assembled top view](https://raw.githubusercontent.com/yummCat/threadedRipple/refs/heads/main/img/assembled_view1.png)
+[bottom layer](https://raw.githubusercontent.com/yummCat/threadedRipple/refs/heads/main/img/bottomLayer.png)
+[top layer](https://raw.githubusercontent.com/yummCat/threadedRipple/refs/heads/main/img/topLayer.png)
 
 
-# BOM: 
-Component | Number
-- Micro Servo - 1
-- ProMicro NRF52840 - 1
-- Buttons - 2
-- ADXL345 - 1
-- Lithium Ion battery 3V- 2
-- TP4056 - 1
-- Wires
 
