@@ -241,10 +241,10 @@ We found out that the main reason that all the components did not work together 
 
 Although the built project so far is encased in a cardboard case, we also made a two-layer case in Fusion 360. The pieces can be joined together without screws, and there is a hole to connect a string/necklace for the pendant.
 
-[assembled side view](https://raw.githubusercontent.com/yummCat/threadedRipple/refs/heads/main/img/assembled_sideView.png)
-[assembled top view](https://raw.githubusercontent.com/yummCat/threadedRipple/refs/heads/main/img/assembled_view1.png)
-[bottom layer](https://raw.githubusercontent.com/yummCat/threadedRipple/refs/heads/main/img/bottomLayer.png)
-[top layer](https://raw.githubusercontent.com/yummCat/threadedRipple/refs/heads/main/img/topLayer.png)
+![assembled side view](https://raw.githubusercontent.com/yummCat/threadedRipple/refs/heads/main/img/assembled_sideView.png)
+![assembled top view](https://raw.githubusercontent.com/yummCat/threadedRipple/refs/heads/main/img/assembled_view1.png)
+![bottom layer](https://raw.githubusercontent.com/yummCat/threadedRipple/refs/heads/main/img/bottomLayer.png)
+![top layer](https://raw.githubusercontent.com/yummCat/threadedRipple/refs/heads/main/img/topLayer.png)
 
 
 
