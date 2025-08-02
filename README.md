@@ -4,7 +4,8 @@ Threaded Ripple, created at Undercity, is a draft of a fluid simulation pendant 
 - one pendant uses a singular round TFT screen instead of a series of LEDs
 - uses metaballs, doesn't do FLIP sim
 - it's a lot trashier :D
-- we also planned for it to connect to other pendants via Bluetooth, sending a ripple animation for cute interactivity (we could not finish implementing this, reasons down below)
+- we also planned for it to connect to other pendants via Bluetooth, sending a ripple animation for cute interactivity (we could not finish implementing this, for obv resolution related reasons, time, and incompetence)
+- maybe we'll get to it eventually :)
 
 ---
 
