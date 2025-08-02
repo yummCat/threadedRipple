@@ -11,15 +11,13 @@ Threaded Ripple, created at Undercity, is a draft of a fluid simulation pendant 
 
 # BOM: 
 Component | Number
-- Micro Servo - 1
 - Seeed Studio XIAO RP2040 - 1
-- Buttons - 2
 - ADXL345 - 1
 - Lithium Ion battery 3V- 2
-- TP4056 - 1
+- TFT GC9A01 (round tft)
 - Wires
 
-(Previously, the ProMicro NRF52840 was used instead of the XIAO RP2040. But the NRF52840 wasn't connecting properly.)
+(Previously, the ProMicro NRF52840 was used instead of the XIAO RP2040. But the NRF52840 wasn't connecting properly. It was an Ali Express clone. How fun.)
 
 # Date: July 11 2025
 
