@@ -1,5 +1,5 @@
 ## General Info
-Demo (progress): https://youtu.be/7Ph1gEYXCcs
+Demo (progress): [https://youtu.be/7Ph1gEYXCcs](https://youtube.com/shorts/kHK6f2Lr1GQ?si=H8lP7BIPjt2e0Dbj)
 Threaded Ripple, created at Undercity, is a draft of a fluid simulation pendant (inspired by [mitxela](https://www.youtube.com/watch?v=jis1MC5Tm8k)). Ours is different, though, because:
 - pendant uses a singular round TFT screen instead of a series of LEDs
 - uses metaballs, doesn't do FLIP sim
